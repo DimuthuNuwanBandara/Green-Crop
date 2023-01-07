@@ -1,0 +1,26 @@
+.clearfix { overflow: auto; }
+.mainaddproducts{
+	background-color: white;
+	width:700px;
+	height: 480px;
+}
+
+
+#Addproducts{
+	width: 600px;
+	height: auto;
+	background-color: ;
+	margin: auto;
+}
+.mainaddproducts input{
+	width: 70%;
+	height: 30px;
+	display: block;
+	border-radius: 5px;
+	border: 0.5px solid #aaa;
+}
+.mainaddproducts label{
+	color: ;
+}
+
+

@@ -1,0 +1,24 @@
+.clearfix { overflow: auto; }
+div.h-main{
+	margin :auto;
+	width: 1200px;
+	height: 100px;
+	background-color: green;
+}
+.h-logo{
+height: 100px;
+background-color: red;
+float: left;
+}
+.h-links{
+height: 100px;
+width: 100px;
+background-color: black;
+float: left;
+}
+.h-links1{
+height:100px;
+/*width: 100px;*/
+background-color: blue;
+float: right;
+}

@@ -1,0 +1,164 @@
+@media{
+.main-contact{
+	background-color:/* white*/;
+	width: auto;
+	height: auto;
+	margin-top: 20px;
+}
+.main-contact-center{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1000px;
+	height:auto;
+	background-color: /*green*/;
+}
+.main-form{
+	width: 60%;
+	height: auto;
+	background-color:white;
+	border-radius: 5px;
+	float: left;
+}
+
+.formm{
+	width: 100%;
+	margin-top: 10px;
+	color: #999999;
+}
+.formm h1{
+	text-align: center;
+	color: black;
+	font-size: 40px;
+}
+.formm p{
+	margin-top: 15px;
+	margin-bottom: 15px;
+	text-align: center;
+	font-family: Swis721 Lt BT;
+	font-weight: bold;
+}
+form.form label {
+	margin-left: 15px;
+ 	margin-top: 5px;
+ 	margin-bottom: 5px;
+ 
+}
+form.form input {
+	margin-left: 15px;
+ 	 width: 90%;
+ 	 padding: 12px;
+ 	 border: 1px solid #ccc;
+ 	 border-radius: 20px;
+ 	 box-sizing: border-box;
+ 	 margin-top: 6px;
+ 	 margin-bottom: 16px;
+ 	 resize: vertical;
+}
+form.form textarea {
+ 	width: 90%;
+ 	height: 100px;
+  	margin-left: 15px;
+  	padding: 12px;
+ 	border: 1px solid #ccc;
+  	border-radius: 20px;
+  	box-sizing: border-box;
+  	margin-top: 6px;
+  	margin-bottom: 16px;
+  	resize: vertical;
+}
+button#submit{
+  	margin-left: 15px;
+  	width: 230px;
+  	padding: 12px;
+ 	border: 0px solid #ccc;
+  	border-radius: 20px;
+  	box-sizing: border-box;
+  	margin-top: 6px;
+  	margin-bottom: 16px;
+  	resize: vertical;
+  	background-color: #fccb56;
+  	color: white;
+  	font-weight: bold;
+}
+
+
+
+
+.contact-right{
+	width: 40%;
+	height: 600px;
+	float: ;
+	background-color: white;
+}
+.contact-child{
+	width: 90%;
+	height: auto;
+	margin: 15px;
+	color: #595a5c;
+	border-radius: 5px;
+	background-color: white;
+
+}
+.contact-followus{
+	margin-bottom: 20px;
+}
+.contact-child ul {
+	margin-bottom: 60px;
+}
+.contact-child ul li{
+	display: inline-block;
+	color: #595a5c;
+}
+.contact-child ul li a{
+	color: #595a5c;
+}
+.contact-child ul li a:hover{
+	color: #fccb56
+}
+.riht-line{
+	position:relative;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	width: 100%;
+	height: 2px;
+	background-color:  #595a5c;
+}
+.riht-line-color{
+	position: absolute;
+	top: 0px;
+	width: 50px;
+	height: 2px;
+	background-color: #fccb56;
+}
+
+
+
+#map{
+	height: 700px;
+	width: 100%;
+}
+}
+
+
+
+@media(max-width: 1000px){
+.main-contact-center{
+	width: auto;
+	height: auto;
+	background-color: green;
+}
+.main-form{
+	width: 100%;
+	height: auto;
+	background-color: red;
+	float: left;
+}
+.contact-right{
+	margin-left: auto;
+	margin-right: auto;
+	width: 350px;
+	height: auto;
+	float: ;
+	background-color: blue;
+}
+}

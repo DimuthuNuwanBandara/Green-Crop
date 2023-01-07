@@ -1,0 +1,64 @@
+/*index-our menu start*/
+@media{
+.index-menu{
+	width: 100%;
+	height: auto;
+	text-align: center;
+	font-family: Asenine;
+	color: white;
+	font-size: 40px;
+	background-color:#f3f3f5;
+
+}
+.index-menu-main{
+	width: auto ;
+	max-width: 1300px;
+	height: auto;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(0,0,0,0.5);
+}
+.index-menu-item{
+	width: 200px;
+	height: 320px;
+	float: left;
+	margin-left: 2%;
+	margin-right: 2%;
+	margin-bottom: 25px;
+	border-radius: 10px;
+	background-color:  #99cc99;
+	color: black;
+}
+.index-menu-item img{
+	width: 170px;
+	height: 170px;
+	border-radius: 50%;
+	margin-top: 15px;
+	background-color:   ;
+}
+.productsWhat{
+	color: white;
+	font-family: Calibri;
+	text-align: left;
+	margin-left: 10px;
+}
+}
+
+@media(max-width: 1300px){
+.index-menu-main{
+max-width: 1000px;
+}
+}
+@media(max-width: 1000px){
+.index-menu-main{
+max-width: 700px;
+}
+
+}
+@media(max-width: 100px){
+.index-menu-main{
+max-width: 100px;
+}
+}
+/*index-our menu end*/

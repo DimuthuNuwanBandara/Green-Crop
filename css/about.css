@@ -1,0 +1,167 @@
+.menu-ab{
+  width: auto;
+  height: 200px;
+  background-image: url("../images/about-us.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.main-name-ab{
+  font-family: ;
+  font-size: 60px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+.main-name-ab-1 {
+  width: auto;
+  height: 50px;
+  background-color: /*white*/;
+
+}
+
+
+
+
+
+#vision-about{
+  
+  text-align: center;
+  color: white;
+}
+
+.container{
+  width: 100%;
+  height: 800px;
+   background-image: url("../images/wallpaper1.jpg");
+  background-size: cover;
+   background-repeat: no-repeat;
+   color: white;
+   text-align: center;
+}
+.content{
+  max-width: 1000px;
+  height: 600px;
+  margin-top: 80px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: rgba(0,0,0,0.5);
+}
+
+
+
+.g-meu1{
+  width: 100%;
+  height: auto;
+  background-color: green;
+  text-align: center;
+}
+.g-meu1 h1{
+  font-size: 30px;
+  margin-top: 30px;
+}
+.g-g-menu1{
+  max-width: 1000px;
+  height: auto;
+  margin: auto;
+  margin-top: 20px;
+  background-color: white;
+  float: none;
+
+}
+.g-g-catagary1 h2{
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+.g-g-child1{
+  width: 450px;
+  height: 400px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  float: left;
+  text-align: center;
+  background-color: green;
+  position: relative;
+}
+
+
+
+
+.Our-Team {
+  margin-top: 30px;
+  text-align: center;
+  color:white;
+}
+.our-team-member{
+  width: auto;
+  height:auto;
+  background-color: /*green*/;
+
+}
+.all-member{
+  width: 800px;
+  height:auto;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: /*blue*/;
+}
+.childimember{
+  margin:20px;
+  width: 225px;
+  float: left;
+  background-color: /*white*/;
+
+}
+
+.transparent-child{
+  width: auto;
+  height: auto;
+}
+.childimember-name{
+  text-align: center;
+  color: white;
+    top: 170px;
+  width: 225px;
+  height:60px;
+  background-color:rgba(0,0,0,0.5);
+  
+}
+
+
+
+
+
+@media(max-width: 1000px){
+  .g-g-child1{
+  margin-left:100px;
+  
+}
+}
+
+@media(max-width:850px){
+  .g-g-child1{
+    float: none;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+}
+
+
+
+
+
+
+
+@media(max-width: 800px){
+
+.all-member{
+  width: 100%;
+}
+.childimember{
+  margin-left: auto;
+  margin-right: auto;
+  float: none;
+
+}
+}

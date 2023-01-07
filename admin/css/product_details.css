@@ -1,0 +1,16 @@
+.clearfix { overflow: auto; }
+.p-m-i{
+	background-color: white;
+	width:700px;
+	height: 480px;
+}
+
+table.productsTable{
+	width: 500px;
+	margin: auto;
+}
+table.productsTable th{
+	background-color:  #aaa;
+}
+
+

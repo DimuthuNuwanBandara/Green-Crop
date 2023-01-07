@@ -1,0 +1,59 @@
+.clearfix { overflow: auto; }
+.maingallery{
+	background-color: white;
+	width:700px;
+	height: 500px;
+}
+
+.addimage{
+	width: 400px;
+	height: 154px;
+	border-radius: 10px;
+	background-color: 	 #f0f0f5;
+	margin-left: 30px;
+}
+
+.userform{
+	width: 400px;
+	height: auto;
+	background-color:;
+}
+.maingallery input{
+	width: 70%;
+	height: 30px;
+	border-radius: 5px;
+	border: 0.5px solid #aaa;
+}
+
+.maingallery label{
+	color: ;
+}
+.addimage button{
+  margin-left: 90px;
+  width: 100px;
+  padding: 5px;
+  border: 0px solid #ccc;
+  border-radius: 20px;
+  background-color: #fccb56;
+  color: white;
+  font-weight: bold;
+}
+
+
+
+.imagegride button{
+  border: 0px solid #ccc;
+  background-color: #ff6666;
+  color: white;
+  font-weight: bold;
+}
+
+
+
+.imagegride{
+	width: 600px;
+	height: auto;
+	margin: auto;
+	background-color: white;
+}
+

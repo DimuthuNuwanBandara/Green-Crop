@@ -1,0 +1,230 @@
+@media{
+.main-name-about{
+	font-family: Aqua Grotesque;
+	font-size: 30px;
+	padding: 10px;
+	color: white;
+	text-align: center;
+}
+
+.main-name-about-1 {
+	width: auto;
+	height: 1px;
+	background-color: white;
+
+}
+
+.our-history{
+	margin-top: 15px;
+	background-color: green;
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: ;
+}
+.our-history img{
+	width: 100%;
+}
+.our-history .history-details{
+	text-align:center;
+	float: right;
+	width: 500px;
+	height: 500px;
+	background-color: rgba(224,224,224,0.2);
+}
+.history-background{
+	margin: 10px;
+}
+.history-background p{
+	text-align: justify;
+	margin: 10px;
+	color: #3D3A36;
+}
+.history-background h1{
+	color: #251A0A;
+	margin-top: 60px;
+	margin-bottom: 30px;
+	font-family: Berlin Sans FB;
+	font-size: 30px;
+}
+
+
+
+.storyfull{
+	width: auto;
+	height: auto;
+	background-color: white;
+}
+
+.our-history-since h1{
+	text-align: center;
+	color: white;
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.main-since{
+	text-align: center;
+	background-color: ;
+	margin:auto;
+	width: 800px;
+	height: auto;
+}
+.main-since h2{
+	color: #7A775B;
+}
+.main-since p{
+	color: #7A775B;
+}
+.since-history{
+	float: right;
+	width: 400px;
+	height: 345px;
+	background-color: ;
+	border-left: 2px solid #7A775B;
+}
+.since-history2{
+	float: left;
+	width: 380px;
+	height: 345px;
+	background-color:;
+
+}
+.since{
+	background-color: ;
+}
+.since-history h2{
+	margin-top: 90px;
+	margin-bottom: 20px;
+	color: black;
+}
+.since-history2 h2{
+	margin-top: 90px;
+	margin-bottom: 20px;
+	color: black;
+}
+.since-image{
+	float: left;
+
+}
+.since-image2{
+	width: 400px;
+	float: right;
+	border-left: 2px solid #7A775B;
+
+}
+.since-image img{
+	margin-top: 60px;
+	margin-bottom:60px;
+	margin-left: 10px;
+	width: 350px;
+	height: 225px;
+}
+
+.since-image2 img{
+	margin-top: 60px;
+	margin-bottom:60px;
+	margin-left: 10px;
+	width: 350px;
+	height: 225px;
+}
+
+
+
+.middle-image-aboutus{
+	width: auto;
+	height: 300px;
+	background-image: url("../images/about-us.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.Our-Team {
+	margin-top: 5px;
+	text-align: center;
+	color:white;
+}
+.our-team-member{
+	width: auto;
+	height:auto;
+	background-color: ;
+
+}
+.all-member{
+	width: 800px;
+	height:auto;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:	;
+	position: relative;
+}
+.childimember{
+	margin:20px;
+	width: 225px;
+	height: 230px;
+	float: left;
+	background-color: ;
+
+}
+
+.transparent-child{
+	width: auto;
+	height: auto;
+	position: relative;
+}
+.childimember-name{
+	text-align: center;
+	color: white;
+	position: absolute;
+	top: 170px;
+	width: 225px;
+	height: 50px;
+	background-color:rgba(0,0,0,0.5);
+	
+}
+.childimember-name p{
+	color: #EEDC36;
+	font-size: 13px;
+}
+}
+
+@media(max-width: 800px){
+
+.since-image{
+	display: none;
+}
+.since-image2{
+	display: none;
+}
+
+.main-since{
+	text-align: center;
+	margin:auto;
+	width: auto;
+	height: auto;
+}
+.since-history{
+	margin-top:  100px;	
+	margin-left: auto;
+	margin-right: auto;
+	border-left: none;
+	float: none;
+	height: 200px;
+}
+.since-history2{
+	float: none;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+	height: 200px;
+}
+
+.all-member{
+	width: 100%;
+}
+.childimember{
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+
+}
+}
